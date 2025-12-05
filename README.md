@@ -1,2 +1,2 @@
 # Python Work
-My beginner Python practice scripts for learning IT &amp; Cybersecurity fundamentals.
+All Python related work from my beginner practice scripts for learning IT &amp; Cybersecurity fundamentals to advanced projects.
